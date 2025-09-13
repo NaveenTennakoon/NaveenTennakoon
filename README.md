@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-I currently work at [Enactor Ltd](https://enactor.co/) as a full-time Software Engineer, helping to provide the best quality POS product to retail clients. I finished my BSc (hons.) in Information Systems degree recently at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/). Beside's programming, I enjoy music, gaming and sports.
+I currently work at [System2](https://www.getsystem2.com/) as a full-time Software Engineer, helping to provide the best fitness solution out there. I finished my BSc (hons.) in Information Systems degree recently at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/). Beside's programming, I enjoy music, gaming and sports.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/naveen-tennakoon-60800b177/" target="_blank">
